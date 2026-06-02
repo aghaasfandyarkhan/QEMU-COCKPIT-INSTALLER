@@ -47,6 +47,6 @@ Perfect for:
 
 ```bash
 git clone https://github.com/aghaasfandyarkhan/QEMU-COCKPIT-INSTALLER
-cd your-repo
-chmod +x setup-vm-stack.sh
-sudo ./setup-vm-stack.sh
+cd QEMU-COCKPIT-INSTALLER
+chmod +x qemu+cockpit-installtion.sh
+sudo ./qemu+cockpit-installation.sh
