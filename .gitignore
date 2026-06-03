@@ -1,0 +1,3 @@
+# Ignore these files while installtion or git commits
+assets
+LICENSE
