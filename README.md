@@ -1,5 +1,5 @@
 #  QEMU + Cockpit VM Installer
-![Cockpit and QEMU image](assets/tux.png)
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/ed29d8d8-f08b-4039-a004-1e0ff463f093" />
 
 A simple automated script to install and configure a full virtualization environment on Debian based Linux Distros using **QEMU, KVM, libvirt, and Cockpit** with SPICE support for better VM experience.
 
