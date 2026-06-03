@@ -1,3 +1,4 @@
 # Ignore these files while installtion or git commits
+.gitignore
 assets
 LICENSE
