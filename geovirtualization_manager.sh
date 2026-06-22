@@ -102,7 +102,7 @@ install_or_reinstall() {
 # Package lists
 CORE_PKGS=(
     qemu-system libvirt-daemon-system libvirt-clients
-    bridge-utils virt-manager virtinst cpu-checker
+    bridge-utils virt-manager virtinst cpu-checker virtiofsd
 )
 COCKPIT_PKGS=(
     cockpit cockpit-machines
